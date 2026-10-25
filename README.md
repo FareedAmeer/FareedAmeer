@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-## 🛠️ Languages, Technologies & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,mongodb,pytorch,python,fastapi,tailwind,photoshop,illustrator,figma,c&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,mongodb,pytorch,python,fastapi,tailwind,photoshop,illustrator,figma,c&perline=20)](https://skillicons.dev)
 
-**Other Skills:** Deep Learning (DL) • REST APIs • Graphic Design • UI/UX Design • Networking Fundamentals
 
