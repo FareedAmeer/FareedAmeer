@@ -15,32 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 💻 My Tech Stack
 
-**HTML & CSS**
+## 🛠️ Languages, Technologies & Tools
 
-<img src="https://skillicons.dev/icons?i=html,css" />
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,mongodb,pytorch,python,fastapi,tailwind,photoshop,illustrator,figma,c&perline=7)](https://skillicons.dev)
 
-**JavaScript**
+**Other Skills:** Deep Learning (DL) • REST APIs • Graphic Design • UI/UX Design • Networking Fundamentals
 
-<img src="https://skillicons.dev/icons?i=js" />
-
-**Laravel & PHP**
-
-<img src="https://skillicons.dev/icons?i=laravel,php" />
-
-**AI & Machine Learning**
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-
-**Python**
-
-<img src="https://skillicons.dev/icons?i=python" />
-
-**REST APIs & MySQL**
-
-<img src="https://skillicons.dev/icons?i=fastapi,mysql" />
-
-**Networking**
-
-Networking Fundamentals
